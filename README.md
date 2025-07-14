@@ -33,16 +33,16 @@
   - Source  
   - Task Category  
 
-## 🚫 License
+## 📜 License
 
-- Licensed under **CC BY-ND 4.0**
-- Free to **use and copy as-is**
-- ❌ **No modifications allowed**
-- Attribution required (see LICENSE.txt)
+Licensed under the **MIT License**  
+✔ Free to **use or copy as-is**  
+❌ **Modification of code is not permitted**  
+📎 Attribution must be retained (see `LICENSE.txt`)
 
 ## 📌 About Me
 
-> 👩‍💻 I bring 11 years of EUC & GEN expertise, with focus on practical automation using AI — including inference design, system intelligence, and production-ready analytics.
+> 👩‍💻 I bring 11 years of EUC & 1.5 years of GEN expertise, with focus on practical automation using AI — including inference design, system intelligence, and production-ready analytics.
 
 🔗 Let's connect: [LinkedIn](www.linkedin.com/in/joyita-roy-barman-dasgupta-77287985) | [Email](mailto:jrafflashia@gmail.com)
 
